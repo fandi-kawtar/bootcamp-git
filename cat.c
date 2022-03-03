@@ -7,3 +7,5 @@ jaguar
 cheetah
 kitty
 hello
+MIMI
+KATY
